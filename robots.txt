@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://bestkazik.github.io/onlayn-kazino-oficialnyy-sayt-i-vhod-v-lichnyy-kabinet/sitemap.xml
